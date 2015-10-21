@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_ACTIVITYS"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_ACTIVITYS_MANAGER"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_AD"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_COUPON"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_COUPON_RULE"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_HPOINT"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_LOG"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_PROMOTION"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_SEND_TYPE"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_STEPS"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_VIP"/>
+  <table-filter match-schema="MAS" match-name="CRM_ACTIVITY_VIP_SCRIPTS"/>
+</hibernate-reverse-engineering>
